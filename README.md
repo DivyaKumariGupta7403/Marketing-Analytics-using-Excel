@@ -6,8 +6,11 @@ This dashboard provides a consolidated view of sales, revenue, profit, and rep/c
 Objective-
 
 1.To track overall business performance across sales, revenue, and profit.
+
 2.To identify top and low-performing products, regions, and sales reps.
+
 3.To help managers make better decisions using clear, visual insights.
+
 4.To understand quarterly trends and customer buying patterns for planning.
 
 <img width="2573" height="1509" alt="image" src="https://github.com/user-attachments/assets/845d87fc-5c17-4386-a530-428628952948" />
