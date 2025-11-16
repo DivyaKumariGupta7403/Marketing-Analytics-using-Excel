@@ -44,6 +44,37 @@ Conclusion -
 The Business Performance Dashboard provides critical insights into sales, revenue, and profitability, helping stakeholders make informed and timely decisions. 
 Overall, the dashboard highlights clear opportunities for optimizing product strategy, improving regional focus, enhancing sales-force effectiveness, and boosting profitability. It serves as a powerful tool for business decision-makers to monitor performance, identify bottlenecks, and drive growth.
 
+---------------------------------------------------------------------------------------------------------------------------
+Survey_Data
+
+Objective- 
+1. To measure how many respondents are aware of the product.
+2. To analyze customer satisfaction and likelihood to recommend.
+3. To understand awareness levels across gender and occupations.
+4. To see how product awareness relates to satisfaction scores.
+5. To help identify areas to improve product knowledge and customer experience.
+
+<img width="2593" height="958" alt="image" src="https://github.com/user-attachments/assets/6b95ce89-ec8c-4b8d-a3fc-54937b189275" />
+
+Insights Obtained - 
+1. High Product Awareness
+2. Average Satisfaction is Moderate
+3. Likelihood to Recommend is Fair
+4. Gender & Occupation Distribution
+5. Awareness Affects Satisfaction
+
+Conclusion - 
+1. Strengthen Marketing to Improve Awareness
+2. Improve Product Quality & Experience
+3. Leverage High-Awareness Segments
+4. Increase Recommendation Scores
+5. Tailor Communication by Gender & Occupation
+6. Focus on Education & Value Communication
+
+
+
+
+
 
 
 
