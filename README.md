@@ -1,5 +1,3 @@
-# Marketing-Analytics-using-Excel
-
 Sales Performace Dashboard  
 This dashboard provides a consolidated view of sales, revenue, profit, and rep/category performance across regions and quarters. It helps stakeholders identify trends, optimize strategy, and drive data-backed decisions.
 
@@ -71,7 +69,97 @@ Conclusion -
 5. Tailor Communication by Gender & Occupation
 6. Focus on Education & Value Communication
 
+---------------------------------------------------------------------------------------------------------------------------
 
+Profitability and ROI
+
+1. Which campaigns drive the most revenue vs cost? 
+
+<img width="2856" height="1234" alt="image" src="https://github.com/user-attachments/assets/b40d1c6d-9b3b-42f3-aec8-1833680d3792" />
+
+2. Which channels should get more budget?  --- TV
+
+<img width="2476" height="1073" alt="image" src="https://github.com/user-attachments/assets/9914c286-9bbc-45ae-8bdf-889099c69030" />
+
+Engagement & Behaviour 
+
+1. Which channel has the highest CTR → strong audience targeting?
+   
+<img width="1212" height="630" alt="image" src="https://github.com/user-attachments/assets/13e51deb-f9c6-4aff-9109-848f7a2bc2c8" />
+
+2. Which has the highest CR → effective landing page/ad copy?
+
+<img width="1451" height="752" alt="image" src="https://github.com/user-attachments/assets/c6c6e9c9-4e65-4be8-929a-e843fc41e5c0" />
+
+3. Are new customer acquisition costs (CPA) sustainable?
+<img width="1940" height="1044" alt="image" src="https://github.com/user-attachments/assets/520b9363-1ac0-4ee5-b6cb-4c4673443f69" />
+                        				
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+
+
+
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
 
 
 
